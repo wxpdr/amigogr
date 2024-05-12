@@ -10,10 +10,10 @@ h1{
     text-align: center;
 }
 
-p{
-    color: aliceblue;
+p{color: aliceblue;
     text-align: justify;
     padding: 0px 300px;
+    font-size: 20px;
 }
 
 label{
@@ -53,12 +53,3 @@ button:hover{
     align-items: center;
     height: 100vh; /* Isso define a altura para 100% da altura da janela de visualização */
 }
-
-.div-centralizada2 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Isso define a altura para 100% da altura da janela de visualização */
-}
-
